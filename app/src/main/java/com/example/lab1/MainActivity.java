@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
                 b= spin.getSelectedItem().toString();
                 c= Email.getText().toString();
                 d= Number.getText().toString();
+                
+                // sara
 
 
             }
