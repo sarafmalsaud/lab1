@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab1</string>
+
+    <string-array name="Positions">
+        <item>Employee</item>
+        <item>Manager</item>
+        <item>Trainee</item>
+    </string-array>
+</resources>
